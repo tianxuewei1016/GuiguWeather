@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+
+    <dbname value="cool_weather" />
+
+    <version value="1" />
+
+    <list>
+        <mapping class="xuewei.atguigu.app.bean.Province" />
+        <mapping class="xuewei.atguigu.app.bean.City" />
+        <mapping class="xuewei.atguigu.app.bean.County" />
+    </list>
+
+</litepal>
